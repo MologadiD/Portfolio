@@ -102,7 +102,10 @@ Cape Peninsula University of Technology
 
 ---
 **Mock Interview Video:**
-
+ Mock.Interview.Video.1.mp4 
+ <video width="800" controls>
+  <source src="Mock.Interview.Video.1.mp4" type="video/mp4">
+</video>
 
 https://github.com/user-attachments/assets/5aa12db6-ba87-42d6-a9e5-00e0e7921e88
 
