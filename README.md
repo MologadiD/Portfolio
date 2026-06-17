@@ -2,12 +2,7 @@
 # Mologadi-Dikgale-Portfolio
  
 ### Application Development Student | Aspiring Software Developer  
-
-📍 Cape Town, South Africa  
-📧 231016263@mycput.ac.za 
-📞 067 201 2470  
-🔗 LinkedIn: https://linkedin.com/in/mologadi-dikgale-31a149353  
-
+ 
 ---
 
 ## About Me
@@ -102,9 +97,9 @@ Cape Peninsula University of Technology
 
 ---
 ## Mock Interview Video:
- Mock.Interview.Video.1.mp4 
+ 
  <video width="800" controls>
-  <source src="Mock.Interview.Video.1.mp4" type="video/mp4">
+  <source src="mock 2.1.mp4" type="video/mp4">
 </video>
 
 
