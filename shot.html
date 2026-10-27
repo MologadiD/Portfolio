@@ -1,0 +1,9 @@
+<figure class="shot">
+  <img src="{{ '/assets/img/' | append: include.name | append: '.png' | relative_url }}" alt="{{ include.caption }}" onload="this.parentNode.classList.add('loaded')" onerror="if(!this.dataset.t){this.dataset.t='1';this.src=this.src.replace('.png','.jpg');}">
+  <div class="shot-empty">
+    <span class="cam">📸</span>
+    <strong>{{ include.caption }}</strong>
+    <span>Upload your screenshot to <code>assets/img</code> and name it <code>{{ include.name }}.png</code></span>
+  </div>
+  <figcaption>{{ include.caption }}</figcaption>
+</figure>

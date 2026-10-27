@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.nav != 'home' %}{{ page.title }} · {% endif %}Mologadi Dikgale</title>
+  <meta name="description" content="Digital portfolio of Mologadi Dikgale, Diploma in ICT: Application Development student at CPUT.">
+  <meta name="theme-color" content="#ffc7dd">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/portfolio.css' | relative_url }}">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>💗</text></svg>">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+
+  <div class="bg" aria-hidden="true"><span></span><span></span><span></span></div>
+
+  <header class="topbar">
+    <nav class="nav glass" aria-label="Main">
+      <a class="brand" href="{{ '/' | relative_url }}">M<span>.</span>D</a>
+      <div class="links">
+        <a href="{{ '/' | relative_url }}" {% if page.nav == 'home' %}class="active" aria-current="page"{% endif %}>Home</a>
+        <a href="{{ '/agile/' | relative_url }}" {% if page.nav == 'agile' %}class="active" aria-current="page"{% endif %}>Agile</a>
+        <a href="{{ '/agile/team-charter/' | relative_url }}" {% if page.nav == 'charter' %}class="active" aria-current="page"{% endif %}>Team Charter</a>
+        <a href="{{ '/agile/user-stories/' | relative_url }}" {% if page.nav == 'stories' %}class="active" aria-current="page"{% endif %}>User Stories</a>
+        <a href="{{ '/agile/product-backlog/' | relative_url }}" {% if page.nav == 'product' %}class="active" aria-current="page"{% endif %}>Product Backlog</a>
+        <a href="{{ '/agile/sprint-backlog/' | relative_url }}" {% if page.nav == 'sprint' %}class="active" aria-current="page"{% endif %}>Sprint Backlog</a>
+        <a href="{{ '/agile/agile-logbook/' | relative_url }}" {% if page.nav == 'logbook' %}class="active" aria-current="page"{% endif %}>Logbook</a>
+      </div>
+    </nav>
+  </header>
+
+  <main id="main" class="wrap">
+    {% if page.subtitle %}
+    <section class="hero glass">
+      <p class="eyebrow">{{ page.eyebrow | default: "Agile Portfolio" }}</p>
+      <h1>{{ page.title }}</h1>
+      <p class="lead">{{ page.subtitle }}</p>
+    </section>
+    {% endif %}
+
+    <article class="content">
+      {{ content }}
+    </article>
+  </main>
+
+  <footer class="footer">
+    <p>Made with 💗 by Mologadi Dikgale · Cape Peninsula University of Technology · 2026</p>
+  </footer>
+
+  <script>
+    /* Screenshot slots: try the common image extensions; show the pink placeholder if none exist. */
+    (function () {
+      var exts = ['png', 'jpg', 'jpeg', 'webp', 'PNG', 'JPG', 'JPEG'];
+      document.querySelectorAll('img[data-shot]').forEach(function (img) {
+        var fig = img.closest('.shot'), base = img.getAttribute('data-shot'), i = 0;
+        function next() {
+          if (i >= exts.length) { fig.classList.add('missing'); return; }
+          img.src = base + '.' + exts[i++];
+        }
+        img.addEventListener('load', function () { fig.classList.add('loaded'); });
+        img.addEventListener('error', next);
+        next();
+      });
+    })();
+  </script>
+</body>
+</html>
