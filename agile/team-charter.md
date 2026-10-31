@@ -37,7 +37,7 @@ An Agile team charter is a living, co-created social contract that defines a tea
 
 ### Situation
 
-✏️ **PASTE YOUR SITUATION HERE** (2 to 3 sentences: what was happening with the team charter?)
+✏️ **Our team needed to formalize the AquaLink project structure, roles, and 4-week MVP pilot plan for our Professional Practice module.** (2 to 3 sentences: what was happening with the team charter?)
 
 </div>
 
