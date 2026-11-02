@@ -37,7 +37,7 @@ A product backlog is a prioritised list of all the work, features, bug fixes and
 
 ### Situation
 
-✏️ **PASTE YOUR SITUATION HERE** (2 to 3 sentences: what was happening with the product backlog?)
+✏️ **Our team needed to organize and prioritize all user stories and system features required for the AquaLink water access platform.** 
 
 </div>
 
@@ -46,7 +46,7 @@ A product backlog is a prioritised list of all the work, features, bug fixes and
 
 ### Task
 
-✏️ **PASTE YOUR TASK HERE** (what were you responsible for as Project Manager?)
+✏️ **I contributed to defining and structuring the product backlog to capture essential requirements like household subscriptions, IoT sensor tracking, and administrator dashboards.** 
 
 </div>
 
@@ -55,7 +55,7 @@ A product backlog is a prioritised list of all the work, features, bug fixes and
 
 ### Action
 
-✏️ **PASTE YOUR ACTION HERE** (what did you actually do, and what was hard?)
+✏️ **I helped categorize and rank feature items based on project scope and MVP priorities to ensure a clear development roadmap.** 
 
 </div>
 
@@ -64,7 +64,7 @@ A product backlog is a prioritised list of all the work, features, bug fixes and
 
 ### Result
 
-✏️ **PASTE YOUR RESULT HERE** (what happened, and what did you learn?)
+✏️ **This structured backlog provided our team with a centralized, transparent inventory of work items needed for successful execution.** 
 
 </div>
 

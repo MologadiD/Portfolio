@@ -37,7 +37,7 @@ An Agile logbook is a tracking tool or notebook used by project managers and dev
 
 ### Situation
 
-✏️ **PASTE YOUR SITUATION HERE** (2 to 3 sentences: what was happening with the logbook?)
+✏️ **Our coursework required maintaining an accurate, chronological record of our team meetings, design decisions, and individual contributions.** 
 
 </div>
 
@@ -46,7 +46,7 @@ An Agile logbook is a tracking tool or notebook used by project managers and dev
 
 ### Task
 
-✏️ **PASTE YOUR TASK HERE** (what were you responsible for as Project Manager?)
+✏️ **I needed to consistently document our project activities, challenges faced, and milestones achieved throughout the development process.** 
 
 </div>
 
@@ -55,7 +55,7 @@ An Agile logbook is a tracking tool or notebook used by project managers and dev
 
 ### Action
 
-✏️ **PASTE YOUR ACTION HERE** (what did you actually do, and what was hard?)
+✏️ **I regularly recorded key project updates, meeting outcomes, and operational notes to ensure complete project traceability.** 
 
 </div>
 
@@ -64,7 +64,7 @@ An Agile logbook is a tracking tool or notebook used by project managers and dev
 
 ### Result
 
-✏️ **PASTE YOUR RESULT HERE** (what happened, and what did you learn?)
+✏️ **The logbook served as a reliable audit trail that improved team accountability and streamlined our project reporting.** 
 
 </div>
 

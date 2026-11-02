@@ -37,7 +37,7 @@ A sprint backlog is a real-time, actionable plan created by and for the develope
 
 ### Situation
 
-✏️ **PASTE YOUR SITUATION HERE** (2 to 3 sentences: what was happening with the sprint backlog?)
+✏️ **We needed to break down our overarching project goals into manageable, short-term delivery cycles for our team.** 
 
 </div>
 
@@ -46,7 +46,7 @@ A sprint backlog is a real-time, actionable plan created by and for the develope
 
 ### Task
 
-✏️ **PASTE YOUR TASK HERE** (what were you responsible for as Project Manager?)
+✏️ **I helped select and assign specific user stories and technical tasks from the product backlog into our active sprint plan.** 
 
 </div>
 
@@ -55,8 +55,7 @@ A sprint backlog is a real-time, actionable plan created by and for the develope
 
 ### Action
 
-✏️ **PASTE YOUR ACTION HERE** (what did you actually do, and what was hard?)
-
+✏️ **I collaborated with team members to commit to achievable sprint deliverables and map out immediate development milestones.** 
 </div>
 
 <div class="star-card" markdown="1">
@@ -64,8 +63,7 @@ A sprint backlog is a real-time, actionable plan created by and for the develope
 
 ### Result
 
-✏️ **PASTE YOUR RESULT HERE** (what happened, and what did you learn?)
-
+✏️ **The sprint backlog kept our daily efforts focused, tracked progress efficiently, and aligned our technical execution with our timelines.** 
 </div>
 
 </div>

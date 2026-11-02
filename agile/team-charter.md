@@ -37,7 +37,7 @@ An Agile team charter is a living, co-created social contract that defines a tea
 
 ### Situation
 
-✏️ **Our team needed to formalize the AquaLink project structure, roles, and 4-week MVP pilot plan for our Professional Practice module.** (2 to 3 sentences: what was happening with the team charter?)
+✏️ **Our team needed to formalize the AquaLink project structure, roles, and 4-week MVP pilot plan for our Professional Practice module.** 
 
 </div>
 
@@ -46,7 +46,7 @@ An Agile team charter is a living, co-created social contract that defines a tea
 
 ### Task
 
-✏️ **PASTE YOUR TASK HERE** (what were you responsible for as Project Manager?)
+✏️ **I contributed to creating a comprehensive team charter that aligned our vision, outlined member responsibilities, and structured our infrastructure and digital system deliverables.** 
 
 </div>
 
@@ -55,7 +55,7 @@ An Agile team charter is a living, co-created social contract that defines a tea
 
 ### Action
 
-✏️ **PASTE YOUR ACTION HERE** (what did you actually do, and what was hard?)
+✏️ **I collaborated with the team to synthesize our presentation details into a structured document defining clear phases, individual roles, and data-driven communication protocols** 
 
 </div>
 
@@ -64,7 +64,7 @@ An Agile team charter is a living, co-created social contract that defines a tea
 
 ### Result
 
-✏️ **PASTE YOUR RESULT HERE** (what happened, and what did you learn?)
+✏️ **This collaborative document successfully established clear accountability, data-driven decision protocols, and a solid roadmap for our rural water access initiative.** 
 
 </div>
 

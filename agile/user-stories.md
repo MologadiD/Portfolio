@@ -37,7 +37,7 @@ A user story is a short, simple description of a software feature written from t
 
 ### Situation
 
-✏️ **PASTE YOUR SITUATION HERE** (2 to 3 sentences: what was happening with the user stories?)
+✏️ **As Project Manager of the five-member AquaLink team I was working on a community water supply business concept for  villages all around South Africa. Before the team could start building anything, we needed user stories and tasks so that everyone knew what had to be done and why.** 
 
 </div>
 
@@ -46,7 +46,7 @@ A user story is a short, simple description of a software feature written from t
 
 ### Task
 
-✏️ **PASTE YOUR TASK HERE** (what were you responsible for as Project Manager?)
+✏️ **My task was to write the user story “As the AquaLink team, I want to define our project vision so that everyone understands the intended solution” and break it down into tasks. I was responsible for making it clear enough that every team member could work from it without needing to ask what was expected.** 
 
 </div>
 
@@ -55,7 +55,7 @@ A user story is a short, simple description of a software feature written from t
 
 ### Action
 
-✏️ **PASTE YOUR ACTION HERE** (what did you actually do, and what was hard?)
+✏️ **I broke the story into a four-step checklist: define the AquaLink vision, define the project objectives, describe the proposed solution, and identify the expected impact.** 
 
 </div>
 
@@ -64,7 +64,7 @@ A user story is a short, simple description of a software feature written from t
 
 ### Result
 
-✏️ **PASTE YOUR RESULT HERE** (what happened, and what did you learn?)
+✏️ **Breaking the story into small checklist tasks made the work easier to track and to share between team members.** 
 
 </div>
 
